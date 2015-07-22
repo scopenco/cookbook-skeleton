@@ -13,16 +13,17 @@ Please update this with your thoughts, comments, questions, concerns, and constr
 
 Examples of:
 
-- `attributes/default.rb`
-- `definitions/`
+- [`attributes/default.rb`](attributes/default.rb)
+- [`definitions/`](definitions/)
 - `doc/credit.md`: for knife-cookbook-doc
 - `doc/overview.md`: for knife-cookbook-doc
-- `libraries/`
+- [`libraries/`](libraries/)
 - `libraries/matchers.rb`: ChedSpec matchers for the resources.
-- `providers/default.rb`
-- `recipes/default.rb`
-- `resources/default.rb`
-- `templates/default/`
+- [`providers/default.rb`](providers/default.rb)
+- [`recipes/default.rb`](recipes/default.rb)
+- [`resources/default.rb`](resources/default.rb)
+- [`files/default/`](files/default/)
+- [`templates/default/`](templates/default/)
 - `test/cookbooks/test_cookbook/`: Sometimes you require another cookbook to properly test your cookbook. For example to test the Resources, LWRPs, or testing custom and complex use cases.
 - `test/integration/default/serverspec/Gemfile`: Optional but recommended to ensure the correct version of Serverspec is used.
 - `test/integration/default/serverspec/default_spec.rb`: the first test cases you'll write to run under kitchen+serverspec
@@ -50,7 +51,7 @@ Examples of:
 - `README.md`: Documentation!
 - `Rakefile`: tasks to run occasionally
 - `Vagrantfile`: Deploy the cookbook using Vagrant.
-- `metadata.rb`
+- [`metadata.rb`](metadata.rb)
  
 ## Tools
 
