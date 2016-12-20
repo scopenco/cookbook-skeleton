@@ -58,7 +58,7 @@ Examples of:
 In the documentation, point to resources for:
 
 - [`yard`](http://yardoc.org/): documentation tool to add documentation to the cookbook libraries. See [an example here](https://github.com/onddo/encrypted_attributes-cookbook/blob/master/libraries/encrypted_attributes_helpers.rb) and [the resulting documentation here](http://www.rubydoc.info/github/onddo/encrypted_attributes-cookbook/master/Chef/EncryptedAttributesHelpers).
-- [`chef-gen-flavors`](https://github.com/Nordstrom/chef-gen-flavors)
+- [`chef-gen-flavors`](https://github.com/jf647/chef-gen-flavors)
 - [`guard`](https://github.com/guard/guard) : runs tests whenever a file is changed
 - [`bundler`](http://bundler.io/)
 - [`chef generate cookbook`](https://docs.chef.io/ctl_chef.html#chef-generate-cookbook)
