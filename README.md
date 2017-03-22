@@ -1,4 +1,4 @@
-# Chef Brigade's Cookbook Template
+# Sous Chef's Cookbook Template
 
 
 Whenever a new cookbook is "adopted" by our team, we have a whole bunch of common patterns to apply. Here's a some guidance to common resources, tools, processes and situations.
