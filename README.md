@@ -1,3 +1,11 @@
+# DEPRECATED
+
+This repo has never been actively maintained, consistently used, or especially correct. We still love it, but we won't be working on it any more. If we do something similar, it would be reference doc in [`meta:docs/`](https://github.com/sous-chefs/meta/tree/master/docs) or working code in [`sc-generator`](https://github.com/sous-chefs/sc-generator).
+
+If that doesn't seem adequate to you, please come tell us about it on [![Chef Community Slack](https://community-slack.chef.io/badge.svg)](https://community-slack.chef.io/) in [#sous-chefs](https://chefcommunity.slack.com/messages/sous-chefs/).
+
+The original `README.md` follows:
+
 # Sous Chef's Cookbook Template
 
 
